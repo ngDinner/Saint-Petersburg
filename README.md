@@ -3,13 +3,13 @@
 ## 2019
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner2.png" width="500" title="ngDinner #2">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner2.png" title="ngDinner #2">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner3.png" width="500" title="ngDinner #3">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner3.png" title="ngDinner #3">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner4.png" width="500" title="ngDinner #4">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner4.png" title="ngDinner #4">
 </p>
