@@ -19,5 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner5.png" title="ngDinner #4">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner5.png" title="ngDinner #5">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner6.png" title="ngDinner #6">
 </p>
