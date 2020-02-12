@@ -25,3 +25,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner6.png" title="ngDinner #6">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner7.png" title="ngDinner #6">
+</p>
