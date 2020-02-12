@@ -1,6 +1,10 @@
 # NgDinner
 
-## 2019
+## NgDinner - Piter
+
+[Telegram Chat](https://t.me/angular_piter)
+
+## Events
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner1.jpg" title="ngDinner #1">
