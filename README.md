@@ -31,5 +31,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner7.png" title="ngDinner #6">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner7.png" title="ngDinner #7">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner8.png" title="ngDinner #8">
 </p>
