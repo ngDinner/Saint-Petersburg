@@ -43,7 +43,7 @@ Join to our chat:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner-online-1.png.png" title="ngDinner online #1">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner-online-1.png" title="ngDinner online #1">
 </p>
 
 <p align="center">
