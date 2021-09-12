@@ -43,5 +43,9 @@ Join to our chat:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner8.png" title="ngDinner #8">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner-online-1.png.png" title="ngDinner online #1">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner-online-1.png.png" title="ngDinner online #1">
 </p>
