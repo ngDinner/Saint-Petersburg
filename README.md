@@ -1,6 +1,10 @@
 # NgDinner
 
+ngDinner - This is the Angular community. We get together and talk about technology. We have a lot of invited experts with talks. Usually meetings are held in bars where there is a projector to show slides.
+
 ## NgDinner - Piter
+
+Join to our chat:
 
 [Telegram Chat](https://t.me/angular_piter)
 
@@ -32,6 +36,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner7.png" title="ngDinner #7">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngDinner/Saint-Petersburg/master/images/ngDinner8.png" title="ngDinner #8">
 </p>
 
 <p align="center">
